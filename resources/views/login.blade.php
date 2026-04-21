@@ -12,7 +12,7 @@
                     </p>
                 @enderror
 
-                <input type="text"
+                <input 
                     type="email"
                     name="email"
                     placeholder="your@email.com"
